@@ -5,4 +5,4 @@ Want to run it locally?
  npm install
 2. From the command line terminal, run the following command in the work directory:
  node index.js
-3. open your browser to http://localhost:8080/index.html (You can open localhost:8080 in 2 PCs(LAN), one open http://localhost:8080, the other https://ip:8080, ip is the signaling server ip)
+3. From your browser, open localhost:8080. Open a new tab page or window in any browser and open localhost:8080 again.
